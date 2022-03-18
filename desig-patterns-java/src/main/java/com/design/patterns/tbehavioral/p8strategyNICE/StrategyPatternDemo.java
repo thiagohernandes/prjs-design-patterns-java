@@ -1,4 +1,4 @@
-package com.design.patterns.tbehavioral.p8strategy;
+package com.design.patterns.tbehavioral.p8strategyNICE;
 
 import java.io.BufferedReader;
 import java.io.IOException;

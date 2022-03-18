@@ -1,4 +1,4 @@
-package com.design.patterns.structural.p2composite;
+package com.design.patterns.structural.p2compositeNICE;
 
 import java.util.ArrayList;  
 import java.util.Iterator;  

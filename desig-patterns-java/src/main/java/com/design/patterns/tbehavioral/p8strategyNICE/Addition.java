@@ -1,4 +1,4 @@
-package com.design.patterns.tbehavioral.p8strategy;
+package com.design.patterns.tbehavioral.p8strategyNICE;
 
 public class Addition implements Strategy{
 

@@ -1,4 +1,4 @@
-package com.design.patterns.structural.p4facade;
+package com.design.patterns.structural.p4facadeNICE;
 
 import java.io.BufferedReader;  
 import java.io.IOException;  
